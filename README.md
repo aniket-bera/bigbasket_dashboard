@@ -89,7 +89,7 @@ Additionally, a **Reset Button** is implemented to clear all selected filters an
 ├── dashboard.png                   # Snapshot of the dashboard
 └── README.md                       # Project documentation
 
----
+```
 
 ## 📬 Contact
 
